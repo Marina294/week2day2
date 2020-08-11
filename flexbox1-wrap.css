@@ -1,0 +1,40 @@
+body {
+    margin: 24px 24px 24px 24px;
+    max-width: 1000px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    background-color: #bbd196;
+}
+h1 {
+    padding: 8px 8px 8px 8px;
+    min-width: 600px;
+    color: white;
+    font-weight: 800;
+    font-size: 30px; 
+    background-color: #065446
+}
+p {
+    margin: 12px 12px 12px 12px;
+    padding: 8px 8px 8px 8px;
+    color: white;
+    font-weight: 600;
+    font-size: 22px;
+    width: 5.5em;
+    background-color: #ff5722;
+}
+.main-content-div {
+    padding: 16px 16px 16px 16px;
+    min-width: 600px;
+
+    background-color: #fbe6c4;
+}
+.mid-content-div {  
+    
+}
+.sub-content-div {
+    min-width: 600px; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

@@ -7,14 +7,14 @@ body {
 }
 h1 {
     padding: 8px 8px 8px 8px;
-    min-width: 600px;
+    min-width: 616px;
     color: white;
     font-weight: 800;
     font-size: 30px; 
     background-color: #065446
 }
 p {
-    margin: 12px 8px 12px 8px;
+    margin: 12px 12px 12px 12px;
     padding: 8px 8px 8px 8px;
     color: white;
     font-weight: 600;
@@ -25,7 +25,7 @@ p {
 .main-content-div {
     padding: 16px 16px 16px 16px;
     min-width: 600px;
-    min-height: 8px;
+
     background-color: #fbe6c4;
 }
 .mid-content-div {  
